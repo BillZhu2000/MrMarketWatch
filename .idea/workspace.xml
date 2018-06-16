@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058f57a4-6b47-4880-87ab-548e0f949ef8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quote_getter.py" beforeDir="false" afterPath="$PROJECT_DIR$/quote_getter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random Forest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/LSTM-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="quote_getter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quote_getter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quote_getter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+            <state relative-caret-position="354">
+              <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -26,7 +30,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Random Forest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Random Forest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quote_getter.py" />
+        <option value="$PROJECT_DIR$/Random Forest.py" />
       </list>
     </option>
   </component>
@@ -47,7 +71,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -89,7 +113,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Random_Forest_TF">
+    <configuration name="Random_Forest_TF" type="PythonConfigurationType" factoryName="Python">
+      <module name="quantopian-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random Forest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="quantopian-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +171,10 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Python.quote_getter" />
+      <item itemvalue="Python.Random_Forest_TF" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -150,10 +197,10 @@
       <window_info anchor="right" x="0" y="0" width="270" height="600" id="Documentation" order="5" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3290735" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32827586" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28413793" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -176,6 +223,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/quote_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="45" lean-forward="true" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quote_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quote_getter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -208,10 +275,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quote_getter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        <state relative-caret-position="354">
+          <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random Forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
