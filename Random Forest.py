@@ -2,6 +2,8 @@ from __future__ import print_function
 import pandas as pd
 import datetime
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from sklearn import preprocessing
 
